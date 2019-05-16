@@ -1,0 +1,17 @@
+body {
+  font-family: 'Comic Sans';
+}
+
+* {
+  color: black !important;
+}
+
+.form input {
+  width: 200px;
+  color: #158hac;
+}
+
+input > label {
+  display: block;
+  background: rgb(255, 52, 25, 26);
+}
